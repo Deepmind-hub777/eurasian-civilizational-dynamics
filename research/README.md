@@ -15,6 +15,7 @@ This directory contains research questions, case studies, historical slices, and
 - [WEST-01｜Ammianus原始史料深讀：Chionites與薩珊軍事聯盟](cross-sections/ECD-313/source-deep-dive/WEST-01-AMMIANUS-16-9-4-17-5-1-19-1-9.zh-TW.md)
 - [WEST-01-A｜Chionites、Euseni/Cuseni、Gelani：學界研究史與史料瓶頸核驗](cross-sections/ECD-313/source-deep-dive/WEST-01-A-CHIONITES-EUSENI-GELANI-HISTORIOGRAPHY.zh-TW.md)
 - [WEST-01-B｜Ammianus 19.2.3文本校勘與東伊朗地理重建](cross-sections/ECD-313/source-deep-dive/WEST-01-B-AMMIANUS-19-2-3-TEXT-AND-EAST-IRAN-GEOGRAPHY.zh-TW.md)
+- [WEST-01-C｜Clark、Novák、Baehrens：19.2.3校勘史原件核對](cross-sections/ECD-313/source-deep-dive/WEST-01-C-CLARK-NOVAK-BAEHRENS-COLLATION-HISTORY.zh-TW.md)
 - `networks/` — 商業、宗教與遷徙網絡 / Commercial, religious, and migration networks
 - `hypotheses/` — 可檢驗假說 / Testable hypotheses
   - [ECD-HYP-01｜歷史網絡的可見性偏差](hypotheses/ECD-HYP-01-HISTORICAL-NETWORK-VISIBILITY-BIAS.zh-TW.md)
