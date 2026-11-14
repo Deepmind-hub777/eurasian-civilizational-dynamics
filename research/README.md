@@ -13,5 +13,6 @@ This directory contains research questions, case studies, historical slices, and
 - `cross-sections/` — 歷史切片 / Historical cross-sections
 - `networks/` — 商業、宗教與遷徙網絡 / Commercial, religious, and migration networks
 - `hypotheses/` — 可檢驗假說 / Testable hypotheses
+  - [ECD-HYP-01｜歷史網絡的可見性偏差](hypotheses/ECD-HYP-01-HISTORICAL-NETWORK-VISIBILITY-BIAS.zh-TW.md)
 
 尚未建立的目錄會在首批個案資料提交時建立；不以空白檔案製造虛假資料。
