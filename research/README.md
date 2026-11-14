@@ -6,6 +6,8 @@ This directory contains research questions, case studies, historical slices, and
 
 ## 初始研究路線｜Initial research tracks
 
+- `collections/` — 跨國文獻收藏與數字檔案 / International manuscript collections and digital archives
+
 - `chronology/` — 歐亞同步主時間軸 / Eurasian master chronology
 - `cross-sections/` — 歷史切片 / Historical cross-sections
 - `networks/` — 商業、宗教與遷徙網絡 / Commercial, religious, and migration networks
