@@ -7,6 +7,7 @@ This directory contains research questions, case studies, historical slices, and
 ## 初始研究路線｜Initial research tracks
 
 - `collections/` — 跨國文獻收藏與數字檔案 / International manuscript collections and digital archives
+  - [ECD-COLLECT-01｜四地跨國收藏初步清單](collections/ECD-COLLECT-01-CROSS-BORDER-INVENTORY.zh-TW.md)
 
 - `chronology/` — 歐亞同步主時間軸 / Eurasian master chronology
 - `cross-sections/` — 歷史切片 / Historical cross-sections
