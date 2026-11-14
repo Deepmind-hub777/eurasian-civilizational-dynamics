@@ -11,6 +11,7 @@ This directory contains research questions, case studies, historical slices, and
 
 - `chronology/` — 歐亞同步主時間軸 / Eurasian master chronology
 - `cross-sections/` — 歷史切片 / Historical cross-sections
+  - [ECD-313-WEST｜羅馬、薩珊與中亞草原的邊疆秩序（309—363）](cross-sections/ECD-313/WEST-01-ROME-SASANIAN-CHRONOLOGY.zh-TW.md)
 - `networks/` — 商業、宗教與遷徙網絡 / Commercial, religious, and migration networks
 - `hypotheses/` — 可檢驗假說 / Testable hypotheses
   - [ECD-HYP-01｜歷史網絡的可見性偏差](hypotheses/ECD-HYP-01-HISTORICAL-NETWORK-VISIBILITY-BIAS.zh-TW.md)
