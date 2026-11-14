@@ -147,3 +147,10 @@ D層模型不得覆寫A層原始證據。新發現若與既有結論衝突，應
 ---
 
 *This is a working research document. It distinguishes surviving evidence from scholarly interpretation and testable hypotheses; it is not a final narrative of Eurasian history.*
+
+
+## 10. 原始史料深讀｜Primary-source deep dive
+
+- [粟特古信札第二封：第10–19行初步校讀](source-deep-dive/AL2-lines-10-19.zh-TW.md)
+
+本文件使用公開轉寫與學術譯文建立初步校讀，並將307年鄴、311年洛陽與長安事件分開對讀。2023年CII新編本已列為後續校勘優先版本；在完成逐頁核對前，不宣稱本稿已是最終校勘本。
