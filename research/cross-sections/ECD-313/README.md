@@ -209,5 +209,6 @@ D層模型不得覆寫A層原始證據。新發現若與既有結論衝突，應
 
 - [Ammianus 16.9.4、17.5.1、19.1—19.9：Chionites與薩珊帝國軍事聯盟](source-deep-dive/WEST-01-AMMIANUS-16-9-4-17-5-1-19-1-9.zh-TW.md)
 - [WEST-01-A｜Chionites、Euseni/Cuseni、Gelani：學界研究史與史料瓶頸核驗](source-deep-dive/WEST-01-A-CHIONITES-EUSENI-GELANI-HISTORIOGRAPHY.zh-TW.md)
+- [WEST-01-B｜Ammianus 19.2.3文本校勘與東伊朗地理重建](source-deep-dive/WEST-01-B-AMMIANUS-19-2-3-TEXT-AND-EAST-IRAN-GEOGRAPHY.zh-TW.md)
 
 本文件逐段分析沙普爾二世東方邊境壓力、Chionites與Gelani聯盟，以及Grumbates參與359年阿米達圍城的記載。特別保留Euseni/Cuseni、Gelani/Gilan及Segestani/Sacae等名稱辨識與文本傳承問題；不把聯盟直接等同臣屬或全面征服。
