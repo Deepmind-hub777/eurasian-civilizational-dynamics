@@ -211,5 +211,6 @@ D層模型不得覆寫A層原始證據。新發現若與既有結論衝突，應
 - [WEST-01-A｜Chionites、Euseni/Cuseni、Gelani：學界研究史與史料瓶頸核驗](source-deep-dive/WEST-01-A-CHIONITES-EUSENI-GELANI-HISTORIOGRAPHY.zh-TW.md)
 - [WEST-01-B｜Ammianus 19.2.3文本校勘與東伊朗地理重建](source-deep-dive/WEST-01-B-AMMIANUS-19-2-3-TEXT-AND-EAST-IRAN-GEOGRAPHY.zh-TW.md)
 - [WEST-01-C｜Clark、Novák、Baehrens：19.2.3校勘史原件核對](source-deep-dive/WEST-01-C-CLARK-NOVAK-BAEHRENS-COLLATION-HISTORY.zh-TW.md)
+- [WEST-02｜薩珊東方邊疆的權力重組：政治與錢幣證據矩陣（300—400 CE）](WEST-02-SASANIAN-EASTERN-FRONTIER-POLITICAL-NUMISMATIC-MATRIX-300-400.zh-TW.md)
 
 本文件逐段分析沙普爾二世東方邊境壓力、Chionites與Gelani聯盟，以及Grumbates參與359年阿米達圍城的記載。特別保留Euseni/Cuseni、Gelani/Gilan及Segestani/Sacae等名稱辨識與文本傳承問題；不把聯盟直接等同臣屬或全面征服。
