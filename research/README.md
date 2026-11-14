@@ -1,0 +1,14 @@
+# 研究區｜Research
+
+本目錄保存研究問題、個案研究、時間切片與假說紀錄。研究主張必須遵循 [證據與來源規範](../docs/research-standards/EVIDENCE_PROTOCOL.zh-TW.md)。
+
+This directory contains research questions, case studies, historical slices, and hypothesis records. Claims must follow the [Evidence and Source Protocol](../docs/research-standards/EVIDENCE_PROTOCOL.en.md).
+
+## 初始研究路線｜Initial research tracks
+
+- `chronology/` — 歐亞同步主時間軸 / Eurasian master chronology
+- `cross-sections/` — 歷史切片 / Historical cross-sections
+- `networks/` — 商業、宗教與遷徙網絡 / Commercial, religious, and migration networks
+- `hypotheses/` — 可檢驗假說 / Testable hypotheses
+
+尚未建立的目錄會在首批個案資料提交時建立；不以空白檔案製造虛假資料。
