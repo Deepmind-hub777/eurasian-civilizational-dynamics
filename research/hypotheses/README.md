@@ -12,3 +12,7 @@
 - 修訂歷史。
 
 不得因假說被多位貢獻者接受，就將其自動升格為史實。
+
+## 已登錄假說｜Registered hypotheses
+
+- [ECD-HYP-01｜歷史網絡的可見性偏差](ECD-HYP-01-HISTORICAL-NETWORK-VISIBILITY-BIAS.zh-TW.md) — 檢驗材料保存、考古發現、收藏、辨識、刊布與數字化如何塑造我們對古代跨區域網絡的認識。
