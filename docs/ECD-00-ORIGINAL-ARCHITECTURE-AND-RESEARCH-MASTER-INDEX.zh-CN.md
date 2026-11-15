@@ -141,6 +141,8 @@ TCHS 规定如何观察和比较；DSON 提供一组可检验的解释变量。�
 
 ## 6. 中亚优先恢复的五条研究主线
 
+**共同地理底表：** - [CA-00｜中亚历史地理与古今地名映射总表 v0.1](geography/CA-00-CENTRAL-ASIAN-HISTORICAL-GEOGRAPHY-GAZETTEER.zh-CN.md)
+
 以下五条主线相互关联，但在证据上彼此独立。任何交叉连接均须由具体材料支持。
 
 ### CA-01｜草原政治与帝国边疆
