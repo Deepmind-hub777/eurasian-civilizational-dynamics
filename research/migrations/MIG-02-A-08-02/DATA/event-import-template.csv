@@ -1,0 +1,2 @@
+event_id,event_label,date_start,date_end,date_precision,origin_place_id,destination_place_id,destination_type,movement_type,actor_id,record_status,route_status,confidence_note,notes,source_id,exact_locator,evidence_role,evidence_grade,evidence_status
+,,,,uncertain,,,,,,unverified,unknown,,,,direct_support,A,unverified
