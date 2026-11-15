@@ -60,6 +60,7 @@ DSON 是貫穿四個面向的分析框架，不是第五個研究卷。
 
 ### 文件導覽
 
+- [ECD-00｜歐亞文明歷史動力學原始架構恢復與研究總索引 v1.0](docs/ECD-00-ORIGINAL-ARCHITECTURE-AND-RESEARCH-MASTER-INDEX.zh-CN.md)
 - [研究開題報告（繁體中文）](docs/PROJECT_PROPOSAL.zh-TW.md)
 - [Research Proposal (English)](docs/PROJECT_PROPOSAL.en.md)
 - [TCHS 方法論（繁體中文）](docs/methodology/TCHS.zh-TW.md)
@@ -121,6 +122,8 @@ Contributors from history, archaeology, linguistics, religious studies, classics
 - Mark uncertain readings, dates, and inferences explicitly. Do not present conjecture as established fact.
 
 ### Project Documents
+
+- [ECD-00 — Original Architecture Restoration & Research Master Index v1.0](docs/ECD-00-ORIGINAL-ARCHITECTURE-AND-RESEARCH-MASTER-INDEX.zh-CN.md)
 
 See the bilingual proposal, methods, evidence protocol, and contribution guidance linked above.
 
