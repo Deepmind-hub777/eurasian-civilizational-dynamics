@@ -61,6 +61,7 @@ DSON 是貫穿四個面向的分析框架，不是第五個研究卷。
 ### 文件導覽
 
 - [ECD-00｜歐亞文明歷史動力學原始架構恢復與研究總索引 v1.0](docs/ECD-00-ORIGINAL-ARCHITECTURE-AND-RESEARCH-MASTER-INDEX.zh-CN.md)
+- [CA-00｜中亞歷史地理與古今地名映射總表 v0.1](docs/geography/CA-00-CENTRAL-ASIAN-HISTORICAL-GEOGRAPHY-GAZETTEER.zh-CN.md)
 - [研究開題報告（繁體中文）](docs/PROJECT_PROPOSAL.zh-TW.md)
 - [Research Proposal (English)](docs/PROJECT_PROPOSAL.en.md)
 - [TCHS 方法論（繁體中文）](docs/methodology/TCHS.zh-TW.md)
@@ -124,6 +125,7 @@ Contributors from history, archaeology, linguistics, religious studies, classics
 ### Project Documents
 
 - [ECD-00 — Original Architecture Restoration & Research Master Index v1.0](docs/ECD-00-ORIGINAL-ARCHITECTURE-AND-RESEARCH-MASTER-INDEX.zh-CN.md)
+- [CA-00 — Central Asian Historical Geography and Ancient-to-Modern Toponym Gazetteer v0.1](docs/geography/CA-00-CENTRAL-ASIAN-HISTORICAL-GEOGRAPHY-GAZETTEER.zh-CN.md)
 
 See the bilingual proposal, methods, evidence protocol, and contribution guidance linked above.
 
