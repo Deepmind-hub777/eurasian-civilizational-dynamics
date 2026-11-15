@@ -1,0 +1,19 @@
+variant_id,place_id,raw_name,normalized_name,variant_type,source_work,source_locator,date_context,confidence,adjudication_status,rationale
+VAR-DH-001,LOC-DONGHAI-JIANGZU,东海郡,东海郡（江左侨置）,primary_name,宋书,卷35南东海太守条,晋元帝初,high,accepted,晋元帝初割海虞北境置东海郡；不得与北方原东海郡合并
+VAR-DH-002,LOC-NDONGHAI-001,南东海郡,南东海郡,temporal_renaming,CHGIS;宋书,CHGIS hvd_32369;宋书卷35,420-501,high,accepted,刘宋永初元年改东海侨郡为南东海侨郡
+VAR-XZ-001,LOC-XUZHOU-EASTERNJIN,徐州,徐州（东晋时期）,temporal_name,宋书,卷35南徐州条,411-420,high,accepted,永初二年以前不以南徐州作为确定名称
+VAR-XZ-002,LOC-NANXUZHOU-001,南徐州,南徐州,temporal_renaming,宋书,卷35南徐州条,421 onward,high,accepted,永初二年加徐州曰南徐
+VAR-LY-001,LOC-LANGYA-NORTH,琅邪国,琅邪国（北方原籍政区）,origin_polity,宋书,卷35南琅邪太守条,西晋末,high,accepted,琅邪国人是迁徙群体的原籍政区描述
+VAR-LY-002,LOC-NANLANGYA-001,南琅邪郡,南琅邪郡（江左侨郡）,primary_name,宋书,卷35南琅邪太守条,东晋至刘宋,high,accepted,与北方琅邪国/郡分立
+VAR-LY-003,,琅邪相,琅邪相（职官称谓）,office_title,宋书,卷35南琅邪太守条,东晋,high,accepted,不是地点实体；丹阳有琅邪相而无相应土地
+VAR-JC-001,LOC-PUZHOU-JINCHENG-UNRESOLVED,蒲洲金城,蒲洲金城（复合地名）,unresolved_compound,宋书,卷35南琅邪太守条,咸康元年335,medium,provisional,先保留原句复合短语；无独立证据不拆成两个地点
+VAR-HD-001,LOC-HUAIDE-JIANGZU-001,怀德县,怀德县（江左侨县）,same_name_distinct_entity,宋书,卷35南琅邪太守条,太兴三年320,high,accepted,宋书记立县但未给精确治所
+VAR-HD-002,LOC-HUAIDE-TANGYI-LATER-001,怀德县,怀德县（后期堂邑系统同名县）,same_name_distinct_entity,同治上江两县志;宋书,卷27下;卷35扬州条,后期,medium,provisional,后世方志称江南侨置名号移见江北堂邑系统；须继续追踪制度关系
+VAR-QZ-001,LOC-QUZHOU-UNRESOLVED,曲周,曲周县（南泰山侨县）,primary_name,宋书;嘉定镇江志,卷35南泰山条;卷1,东晋至刘宋,high,accepted,当前主要史料文本作曲周
+VAR-QL-001,,曲梁,曲梁（待核异文）,unresolved_variant,后世地理志转引,嘉定镇江志卷1所称晋太康地志异文,晋太康地志语境,low,unresolved,尚未找到可靠原始传本与完整引用链；不得与曲周自动合并
+VAR-GP-001,LOC-GUANGPING-COMMANDERY-001,广平郡,广平郡（南泰山侨郡）,administrative_level,宋书,卷35南泰山太守条,东晋至刘宋,high,accepted,郡级行政实体
+VAR-GP-002,LOC-GUANGPING-COUNTY-001,广平县,广平县（郡省后县）,administrative_successor,宋书;嘉定镇江志,卷35南泰山条;卷1,刘宋元嘉年间,medium,disputed,郡省为县的关系可建；具体年份版本待核
+VAR-DT-001,LOC-DANTU-OLD-001,丹徒县,丹徒县（迁治前旧治）,temporal_entity,CHGIS,CHGIS hvd_40567,282-317,high,accepted,仅代表迁治前旧治
+VAR-JK-001,LOC-JINGKOU-UNRESOLVED,京口,京口（东晋治所区域）,distinct_place,宋书;嘉定镇江志,卷35晋陵及南东海条;卷1,318年后,high,accepted,与迁治前丹徒旧治分开建实体
+VAR-QA-001,LOC-QUA-001,曲阿,曲阿县（历史县治）,historical_county,CHGIS,CHGIS hvd_40575,281-741,high,accepted,曲阿县治点与寄治曲阿的侨县行政实体分别保存
+VAR-HY-001,LOC-HAIYU-001,海虞县,海虞县（历史县域）,historical_county,CHGIS,CHGIS hvd_40419,283-588,high,accepted,海虞北境是区域划分，不等于海虞县治点
