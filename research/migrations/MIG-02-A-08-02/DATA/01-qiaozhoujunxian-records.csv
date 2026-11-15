@@ -1,0 +1,5 @@
+record_id,source_id,source_locator,record_type,date_start,date_end,date_precision,origin_name,destination_name,transit_name,administrative_name,actor_group,original_text,interpretation,status,notes
+SS035-NX-01,SRC-SS-035,卷三十五南徐州条,reported_migration,,,,幽冀青并兖及徐州淮北,晋陵郡界,淮河;长江,,流民,"晋永嘉大乱，幽、冀、青、并、兖州及徐州之淮北流民，相率过淮，亦有过江在晋陵郡界者。",永嘉大乱后多区域流民过淮，部分过江至晋陵郡界,provisional,概述性记载；不得虚构具体年份渡口及人口数
+SS035-NX-02,SRC-SS-035,卷三十五南徐州条,relocation,329,329,exact_year,淮南,晋陵诸县,,,淮南流民,"晋成帝咸和四年，司空郗鉴又徙流民之在淮南者于晋陵诸县",郗鉴组织迁徙流民至晋陵诸县,provisional,日期换算为公元329年；具体县名待逐项核
+SS035-YZ-01,SRC-SS-035,卷三十五扬州条,administrative_exile_site,329,329,exact_year,魏郡旧地,建康（京邑）, ,京邑寄治,相关侨郡县民,"成帝咸康四年，侨立魏郡……又侨立广川郡……江左又立高阳、堂邑二郡……并隶扬州，寄治京邑。",侨郡县在京邑寄治并经历省并,provisional,329仅为魏郡条所载咸康四年；其他郡立置时间不可一并推定
+SS035-NX-05,SRC-SS-035,卷三十五南徐州条,administrative_reorganization,431,431,exact_year,,, ,京口,相关侨郡,"文帝元嘉八年，更以江北为南兖州，江南为南徐州，治京口……",南徐州治京口并接收若干侨郡归属,verified,行政治所不等于所有侨民实际居住地
