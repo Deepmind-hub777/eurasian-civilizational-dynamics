@@ -1,0 +1,13 @@
+place_id,historical_name,normalized_name,entity_type,valid_from,valid_to,coordinate_lat,coordinate_lon,coordinate_role,confidence,source_url,source_basis,location_note
+LOC-QUA-001,曲阿县,曲阿县,县,281,741,31.99580,119.56985,县治点,high,https://tgaz.fudan.edu.cn/tgaz/placename/hvd_40575,CHGIS曲阿县281-741治所,今江苏丹阳市历史县治参照；寄治县官署不必与曲阿县衙共址
+LOC-HAIYU-001,海虞县,海虞县,县,283,588,31.64658,120.73379,县治点,high,https://tgaz.fudan.edu.cn/tgaz/placename/hvd_40419,CHGIS海虞县283-588治所,今江苏常熟市区参照；海虞北境是区域而非县治点
+LOC-DANTU-OLD-001,丹徒县旧治,丹徒县（旧治）,县,282,317,32.19529,119.51499,县治点,high,https://tgaz.fudan.edu.cn/tgaz/placename/hvd_40567,CHGIS丹徒县282-317治所,今丹徒镇旧治；318年迁治京口后不得继续代表京口
+LOC-YIYANG-001,易阳县,易阳县（北方旧县）,县,-221,317,36.77038,114.50987,县治点,medium,https://tgaz.fudan.edu.cn/tgaz/placename/hvd_87036,CHGIS易阳县早期实体及晋初沿革,只能作为北方原县治参照；不能直接代表南泰山侨县寄治点
+LOC-QUZHOU-UNRESOLVED,曲周县（南泰山侨县）,曲周县（侨县）,县,,,,,,,unresolved,https://zh.wikisource.org/zh-hans/宋書/卷35,宋书南泰山条列曲周县,东晋侨县精确治所未定位；唐宋后期同名县坐标不得倒灌
+LOC-GUANGPING-UNRESOLVED,广平郡/县（南泰山系统）,广平,郡/县,,,,,,,unresolved,https://zh.wikisource.org/zh-hans/宋書/卷35,宋书南泰山条及州郡沿革,须区分北方原郡县与江左侨置实体
+LOC-NDONGHAI-001,南东海郡,南东海郡,侨郡,431,501,31.99580,119.56985,郡级代表点,low,https://tgaz.fudan.edu.cn/tgaz/placename/hvd_32369,CHGIS南东海郡431-501空间字段,坐标与曲阿县治点重合且与页面郡徙治郯县文字需复核
+LOC-JINGKOU-UNRESOLVED,京口,京口,城邑/治所,,,,,,,unresolved,https://tgaz.fudan.edu.cn/tgaz/placename/hvd_40567,CHGIS丹徒县说明太兴元年318年迁治京口,已确认历史关系但本轮不以旧丹徒治所点替代京口坐标
+LOC-JIANGCHENG-UNRESOLVED,江乘县/江乘区域,江乘,县/区域,,,,,,,unresolved,https://tgaz.fudan.edu.cn/tgaz/placename/hvd_32372,CHGIS建兴郡资料引江乘历史范围,东晋县治点未核实；现代江乘村不作为替代
+LOC-PUZHOU-JINCHENG-UNRESOLVED,蒲洲金城,蒲洲金城,城邑/驻镇,,,,,,,unresolved,https://www.shidianguji.com/book/NLG312001076319/chapter/1ljvt2myj1yio,清代新修江宁府志对蒲洲金城的考证,后世定位说法待考古与早期地志互证
+LOC-HUAIDE-UNRESOLVED,怀德县,怀德县,侨县,320,,,,,,unresolved,https://zh.wikisource.org/zh-hans/宋書/卷35,宋书记太兴三年立怀德县,县治位置未定；不得与唐代岭南同名县混淆
+LOC-DANTU-SOUTH-TAISHAN,丹徒（南泰山寄治参照）,丹徒,寄治区域,,,,,,,unresolved,https://zh.wikisource.org/zh-hans/宋書/卷35,宋书南泰山条记寄治丹徒,行政寄治关系可确认但精确寄治点未独立核实
