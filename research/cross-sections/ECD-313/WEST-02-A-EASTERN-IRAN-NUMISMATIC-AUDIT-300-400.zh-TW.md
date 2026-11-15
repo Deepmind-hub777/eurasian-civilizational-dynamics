@@ -380,3 +380,115 @@ Schindel的材料修正了早先「Šāpūr II之後、Kawād I之前Sakastan沒
 **因此，下一階段可以進入粟特商業網絡研究，但必須把商業流通問題與上述政治控制問題分開：只有當城市考古、錢幣出土分布、商業文書或交通設施提供獨立證據時，才建立兩者之間的因果連線。**
 
 *本文件是可修訂的證據專項工作稿；對未取得原始目錄、未逐枚核對的部分明確保留待查，不以推測填補資料缺口。*
+
+
+---
+
+## 11. 原始出版物取得狀態與Curiel目錄的二次核對（2026-11-15）
+
+### 11.1 原書書目與實際可取得狀態
+
+原始研究篇章為：
+
+Raoul Curiel, “Le Trésor du Tépé Maranjan, une trouvaille des monnaies sasanides et kusano-sasanides faite près de Caboul,” in Raoul Curiel and Daniel Schlumberger, *Trésors monétaires d’Afghanistan*, MDAFA XIV (Paris, 1953), pp. 103–130, pls. IX–XVI.
+
+頁碼著錄有差異：Joe Cribb 2010列Curiel篇pp.103–130、plates 9–16；其他書目列pp.101–131或101–133。DAFA官方目錄列全書130頁、16幅圖版。應將全書頁數與篇章頁碼分開記錄。
+
+**本輪取得狀態：**
+- Éditions de l’École française d’Athènes（EFA）官方目錄將此書列為免費出版品，但目前能確認的是書目頁，未能取得可逐頁檢視的原書PDF或掃描檔。
+- DAFA官方出版目錄確認MDAFA XIV由Curiel與Schlumberger合著，1953年出版，全書130頁、16幅圖版。
+- Collège de France／FranceArchives檔案目錄另有一張1965年照片，描述為Tepe Maranjan金銀錢幣「僅正面」，並引用原書圖版IX–XVI。這是相關檔案照片，不是原書全部圖版。
+- 因此，以下是對**Joe Cribb 2010年專題研究中對Curiel原文、頁碼與錢幣編號的引用**所作交叉核對；尚不能宣稱已親自逐頁檢查Curiel 1953原書全部文字與圖版。
+
+### 11.2 Curiel對窖藏金幣的原始判斷：重要修正
+
+Joe Cribb, “The Kidarites: The Numismatic Evidence,” in M. Alram et al. (eds.), *Coins, Art and Chronology II: The First Millennium in the Indo-Iranian Borderlands* (Vienna, 2010), pp.91–146，回顧了早期研究史：
+
+1. Joseph Hackin 1935年的初步報告，曾將相關金幣判作一位名為Kobad的統治者發行。
+2. Ghirshman根據Herzfeld已刊出的同類幣，將名稱重新讀作Kidara，並把金幣歸入Kidara。
+3. **Curiel 1953並不接受Ghirshman對這批Kushano-Sasanian風格金幣的Kidara歸屬。** Curiel將其歸給一位身份未明的Kushano-Sasanian統治者。
+4. Curiel另指出，Martin認為仿Šāpūr II的Kidara肖像，實際上更接近Yazdagird II（438–457）錢幣上的肖像；Cribb將這項意見定位於Curiel 1953, p.123。
+
+因此，不能把Curiel 1953當成「已確認11枚Kidara金幣」的原始依據。相反，Curiel本人正是早期反對該批金幣歸屬Kidara的重要學者。
+
+### 11.3 Curiel目錄中的兩枚關鍵錢幣：no. 6與no. 7
+
+Cribb 2010對Curiel原目錄作了更細的重新讀幣：
+
+- Curiel 1953, p.108, no. 6（Cribb 2010 Fig. 13）及no. 7，是Tepe Maranjan窖藏中兩枚關鍵的早期銘文標本。
+- 兩枚在銘文開頭Κι…之後、οοζο[ρ]κο稱號之前，都有四個圓形字母。
+- Cribb認為，若把這兩枚視為該銘文的早期形態，四個字母可以讀作Κιδαρα（Kidara）。
+- Cribb指出Curiel對這兩枚錢幣的銘文轉寫有誤；這是後來重新辨識Kidara讀法的重要環節。
+- Cribb同時提醒，後期同一位置的圓形字母數量變動更大，可能有兩至八個，因此若不建立銘文演變序列，孤立讀取磨損標本會產生歧義。
+
+**證據狀態：**no.6與no.7的編號、頁碼及Cribb讀法已由Cribb 2010可讀全文核對；但尚未能把Curiel原書實物圖版與Cribb Fig.13逐像比對。因此，這是有明確頁碼指向的二次校讀，不是本研究已完成的原件圖版重讀。
+
+### 11.4 窖藏金幣在系列中的相對位置：Cribb的重建
+
+Cribb將Tepe Maranjan金幣放入Bactria碗形金幣的長序列：
+
+1. 晚期Kushan碗形金幣及其仿製幣。
+2. Kushano-Sasanian系列：Peroz I、Hormizd I、Hormizd II、Peroz II。
+3. Peroz II之後出現Varahran系列；冠型由扁平花瓣／蓮瓣冠、羊角冠，再到帶飄帶的蓮瓣冠逐步變化。
+4. 帶飄帶的蓮瓣冠階段出現Κι…銘文；Cribb把Tepe Maranjan no.6、no.7視為最早可讀作Kidara的標本。
+5. 後續三花冠型及銘文、圖像逐漸退化，並出現玫瑰花形標記；部分標記可能對應Balkh鑄幣廠名。
+6. Cribb認為Tepe Maranjan金幣在系列中位於若干帶tamga的發行之後；相對序列不應只靠窖藏最晚銀幣倒推。
+
+### 11.5 鑄造地爭議：Göbl與Cribb
+
+- Göbl將帶Balkh鑄幣廠名的金幣歸Balkh，沒有該標記者歸Kabul。
+- Cribb比較兩組錢幣後認為，兩者在類型上沒有顯著分離，並提出它們可能全部在Balkh鑄造；Kidara幣上的鑄幣標記也支持該鑄幣廠延續。
+- 這是鑄幣地模型的學術分歧，不是窖藏出土地可以直接裁決的問題。
+- Tepe Maranjan位於Kabul附近，僅能證明錢幣進入該地區並被收藏／埋藏，不能單獨證明金幣在Kabul鑄造。
+
+### 11.6 對既有WEST-02-A的必要修訂
+
+| 研究者 | 對Tepe Maranjan金幣的判斷 | 對銘文／年代的影響 |
+|---|---|---|
+| Hackin（1935初報） | 初步讀作Kobad | 最早的初步辨識，後被重新讀取 |
+| Ghirshman（1948） | 讀作Kidara，視為與Šāpūr II同時代的統治者 | 支持四世紀Kidara模型 |
+| Curiel（1953） | 不接受該批金幣為Kidara；歸給身份未明的Kushano-Sasanian統治者 | 肖像比較使他提出較晚的年代判斷 |
+| Bivar（1956） | 重新支持Kidara讀法 | 支持約388年窖藏與較早Kidara年代 |
+| Göbl（1967、1984） | 接受Kidara讀法，將相關序列置於Šāpūr II至Šāpūr III時期 | 建立四世紀後段的錢幣序列 |
+| Cribb（2010） | 重新檢查系列，認為Curiel no.6、no.7的四字母銘文可讀Kidara | 以銘文演變、tamga及相對序列支持其解釋 |
+| Grenet（2003） | 將關鍵Bactrian銘文另讀為與Kay Wahrām相關 | 將金幣視為晚期Kushano-Sasanian，而非Kidara直接發行 |
+| Alram（2004／2017更新） | 將11枚碗形金幣辨識為Kidāra系列 | 支持380年代的年代錨點，但須與Cribb、Grenet及原件字形並列討論 |
+
+**結論：**目前最嚴謹的說法不是「Curiel證明了11枚Kidara金幣」，而是：「Curiel完整刊布了窖藏金幣，但本人反對將相關Kushano-Sasanian金幣歸於Kidara；Cribb後來依Curiel目錄中no.6與no.7的銘文重新讀作Kidara，並以整體錢幣序列支持其解釋；Grenet仍提出替代讀法。」
+
+### 11.7 尚待取得的原件與逐枚表格欄位
+
+原書未取得前，不建立虛假的12枚金幣完整清單。取得Curiel原書掃描後，應逐枚填寫：
+
+| 欄位 | 逐枚記錄要求 |
+|---|---|
+| Curiel目錄號 | 原書頁碼與no.號 |
+| 圖版 | pl. IX–XVI及圖號 |
+| 金屬／類型 | 金／銀、碗形或其他 |
+| 重量／直徑 | 只抄原書實測數據；未載明標示NR |
+| 正面圖像 | 冠型、姿態、祭壇、tamga |
+| 背面圖像 | 神祇、坐騎、符號 |
+| 銘文原樣 | 保留Curiel原轉寫，不先行校正 |
+| 後續校讀 | Cribb、Göbl、Bivar、Grenet、Alram逐家對照 |
+| 鑄造地 | 原書判斷、後續判斷分欄 |
+| 來源與保存 | 是否有破損、磨損、重鑄、圖像缺失 |
+
+### 11.8 本輪新增來源
+
+1. Joe Cribb, “The Kidarites: The Numismatic Evidence,” with analytical appendix by A. Oddy, in M. Alram, D. Klimburg-Salter, M. Inaba and M. Pfisterer (eds.), *Coins, Art and Chronology II: The First Millennium in the Indo-Iranian Borderlands* (Vienna, 2010), pp.91–146.  
+   https://www.academia.edu/38112559/The_Kidarites_the_numismatic_evidence_pdf  
+   **用途：**核對Cribb對Curiel 1953 pp.108、123及no.6、no.7的引用；重建銘文、類型序列及Balkh／Kabul鑄幣地爭議。
+
+2. Éditions de l’École française d’Athènes, *Trésors monétaires d’Afghanistan* (MDAFA XIV, 1953) official catalogue record.  
+   https://editions.efa.gr/?id=1078&r=publication  
+   **用途：**確認官方目錄將此書列為免費出版品；本輪尚未成功取得全文掃描。
+
+3. Délégation Archéologique Française en Afghanistan, MDAFA publication catalogue.  
+   https://www.dafa-afgh.org/publications/  
+   **用途：**確認全書130頁、16幅圖版及作者、年份。
+
+4. Collège de France / FranceArchives, “Monnaies gréco-bactriennes et indo-bactriennes; monnaies sassanides et kidarites du trésor de Tepe Maranjan” (1965).  
+   https://francearchives.gouv.fr/fr/facomponent/84a06ec0272a1ad66e440740ed681a222367c18f  
+   **用途：**確認一張相關金銀幣正面照片及原書圖版IX–XVI的關聯；不是完整圖版替代品。
+
+**本輪狀態：**已完成原書書目與館藏線索核驗，並完成Cribb 2010對Curiel目錄關鍵條目的二次校讀；**尚未取得Curiel 1953原書完整掃描，故尚未完成原始目錄與16幅圖版的逐枚直接核驗。**
